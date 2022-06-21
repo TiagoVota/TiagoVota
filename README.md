@@ -7,7 +7,7 @@
 
 - 📫 Como chegar até mim: **tiagovotacucco@gmail.com**
 
-- 📄 Conheça mais sobre minhas experiências através do [https://www.linkedin.com/in/tiago-vota-cucco/](LinkedIn)
+- 📄 Conheça mais sobre minhas experiências através do [LinkedIn](https://www.linkedin.com/in/tiago-vota-cucco/)
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
